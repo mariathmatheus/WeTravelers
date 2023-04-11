@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://github.com/mariathmatheus/WeTravelers/blob/main/img/WeTravelers.png" alt="Photo preview">
+<img src="https://github.com/mariathmatheus/WeTravelers/blob/main/img/Preview.png" alt="Photo preview">
 </p>
 
 ## ✨ Tecnologias
